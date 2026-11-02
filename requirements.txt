@@ -1,0 +1,11 @@
+MetaTrader5
+pandas
+matplotlib
+mplfinance
+python-dotenv
+SQLAlchemy
+psycopg2-binary
+mcp
+langchain
+langchain-openai
+langchain-mcp-adapters
